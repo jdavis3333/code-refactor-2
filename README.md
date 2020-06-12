@@ -4,40 +4,24 @@ The goal of this project was to assist our client, a marketing agency, meet acce
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+1. Log into GitLab > UCB-Coding-Bootcamp > UCB-BER-FSF-FT-06-2020-U-C
+2. Navigate to HTML Git CSS Homework (click) > Open "Develop" folder and download materials.
+3. Open in VS Code or similar program
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* Visual Studio Code https://code.visualstudio.com/
 
-```
-Give examples
-```
+### Execution
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+* Semantic HTML elements were updated.
+* 
 
 
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Deployed Link
 
@@ -59,5 +43,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Referenced for accessibility standards https://www.w3.org/WAI/standards-guidelines/
+* Referenced for accessibility standards https://www.w3.org/standards/webdesign/accessibility
 * Original code procided by Trilogy Education Services, a 2U, Inc.
