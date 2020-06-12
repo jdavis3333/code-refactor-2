@@ -15,7 +15,7 @@ The goal of this project was to assist our client, a marketing agency, meet acce
 ### Execution
 
 * Updated Semantic HTML elements to include nav, aside, footer.
-![Semantic] (Semantic-HTML.PNG)
+![Semantic-HTML](https://user-images.githubusercontent.com/66157077/84473645-47c0f800-ac3e-11ea-85c1-370bb3cee24b.PNG)
 
 * Upated all images and hero image with Alt Tags.
 ![Alt-tags](https://user-images.githubusercontent.com/66157077/84462972-37e8ea00-ac25-11ea-80bf-0b902dcfd67f.PNG)
