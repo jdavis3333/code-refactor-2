@@ -1,6 +1,6 @@
 # code-refactor-2
 
-One Paragraph of project description goes here
+The goal of this project was to assist our client, a marketing agency, meet accessibility standards in order to be optimized for Search Engine Optimization.  To do this, we needed to review and update the source code to ensure semantic HTML elements are logical.  Image elements also needed to ensure alt tags were included. Heading elements needed to be reviewed to ensure they were in sequential order, and the title element needed an update to be concise and descriptive.
 
 ## Getting Started
 
@@ -48,7 +48,6 @@ End with an example of getting some data out of the system or using it for a lit
 
 * **Joe Davis** 
 
-- [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/jdavis3333)
 - [Link to LinkedIn](https://www.linkedin.com/in/joe-davis-a8380232/)
 
@@ -60,6 +59,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
+* Referenced for accessibility standards https://www.w3.org/WAI/standards-guidelines/
 * Original code procided by Trilogy Education Services, a 2U, Inc.
