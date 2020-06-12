@@ -18,19 +18,19 @@ The goal of this project was to assist our client, a marketing agency, meet acce
 ![Semantic] (Semantic-HTML.PNG)
 
 * Upated all images and hero image with Alt Tags.
-![Alt] (Alt-tags.PNG)
+![Alt-tags](https://user-images.githubusercontent.com/66157077/84462972-37e8ea00-ac25-11ea-80bf-0b902dcfd67f.PNG)
 
-* UPdated heading attributes to descending order, ending with h4.
-![Heading] (Heading-Attributes.PNG)
+* Updated heading attributes to descending order, ending with h4.
+![Heading-Attributes](https://user-images.githubusercontent.com/66157077/84463310-32d86a80-ac26-11ea-9ad6-132d05f45aa3.PNG)
 
 * Title updated to include more information for SEO, but stayed concise. 
-![Title] (Title-Update.PNG)
+![Title-Update](https://user-images.githubusercontent.com/66157077/84463300-23592180-ac26-11ea-9b2a-0dc595d812e4.PNG)
 
 * Fixed broken the broken link in the nav.
-![Broken-link] (Broken-link.PNG)
+![Broken-link](https://user-images.githubusercontent.com/66157077/84463114-a037cb80-ac25-11ea-8de4-146f67d43365.PNG)
 
 * Many elements in CSS were duplicate, causing the code to be longer than necessary. I consolidated as much as possible to clean up the code.
-![Consolidated] (Consolidated.PNG)
+![Consolidated](https://user-images.githubusercontent.com/66157077/84463194-d6754b00-ac25-11ea-92ac-06a3aa6e2960.PNG)
 
 ## Built With
 
@@ -39,7 +39,7 @@ The goal of this project was to assist our client, a marketing agency, meet acce
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [https://jdavis3333.github.io/code-refactor-2/](#)
 
 
 ## Authors
